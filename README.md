@@ -1,3 +1,3 @@
 # Mini-Project
-# SIMON GAME
+# simon game
 Mini project using JS,CSS AND HTML
